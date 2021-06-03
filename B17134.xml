@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a pamphlet called, The true Protestants appeal to the city and country. Being a vindication of the dissenting Protestants in general; and Mr. Sheriff Bethell in particular. By a truer Protestant..</title>
+            <author>Truer Protestant.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17134</idno><idno type="EEBO-CITATION">99889239</idno>
+  <idno type="VID">193672</idno>
+  <idno type="EEBO-PROQUEST">2240906852</idno>
+  
+            <idno type="OCLC"> 8444372</idno>
+            <idno type="STC">Wing A3323</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.2[21]</idno>
+            <idno type="STC">ESTC R24705</idno>
+            <idno type="PROQUEST">ocm99889239</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889239e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193672)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:4[39])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a pamphlet called, The true Protestants appeal to the city and country. Being a vindication of the dissenting Protestants in general; and Mr. Sheriff Bethell in particular. By a truer Protestant..</title>
+                  <author>Truer Protestant.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.B.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1681..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to the work by John Nalson.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Nalson, John, 1638?-1686. --  True Protestants appeal to the city and countrey --  Early works to 1800.</term>
+               <term type="personal_name">Bethel, Slingsby, 1617-1697 --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:193672:1"/>
+            <head>AN ANSWER TO A PAMPHLET CALLED, The True Protestants Appeal TO THE CITY and COUNTRY. BEING A VINDICATION OF THE Dissenting Protestants In General; And Mr. Sheriff Bethell In Particular.</head>
+            <head type="sub">By a Truer Protestant.</head>
+            <opener>
+               <salute>Couragious Friend, Fellow Citizen and Subject;</salute>
+            </opener>
+            <p>I Am glad I have found thee so great an Abhorrer of Popery, but I could have been more glad, hadst thou named some of those many Persons of Quality, thou so boldly mentionest, who had been acquainted with thy Name and Principles, so fully as thy Pen has declared it. If thou art so famous for thy Hatred to the Roman Principles, to Superstition and Innovation, why no Name at the end of thy Pamphlet? And why shouldst thou be afraid to let thy Labours come to a publick Test? They creep into the World like the LADY <hi>GREY'S</hi> APPARITION; MADAM <hi>FANSHAW'S</hi> TOUCH, and such like forbidden Fruit: they steal out of thy Closet into the Press, and so into the World, flying like <hi>Owls</hi> through the <hi>Dark Corners of the Earth.</hi> A shrewd Suspition we have, that thou art not what thou pretendest to be; such as thou art are most to be suspected for <hi>King-killing Tenets;</hi> and I fancy thou hast got the wit to cry out <hi>Whore</hi> first. <hi>Papists</hi> now rail against <hi>Papists;</hi> crafty are they grown in this Treacherous Age: But we will hope for better things from thee, be<g ref="char:EOLhyphen"/>cause thou hast told us in Print, <hi>That many Persons of Quality</hi> (though nameless, and not to be found) <hi>do know thee to be a</hi> TRUE CHURCH OF ENGLAND-KING'S-PROTESTANT. But give me leave to tell thee, <hi>That's an ill Bird that beshits its own Nest.</hi> To lay the Burthen of Royal Blood wholly upon <hi>Dissenting Protestants,</hi> is too great a load for them to bear, since the King's Evidences have so fully discovered, that the <hi>Papists</hi> had a Finger in that Pye, and were too highly concerned in shedding that <hi>Royal</hi> and <hi>Innocent Blood.</hi> The Parliament strove to <hi>Unite the Dissenters,</hi> thou to <hi>Destroy them;</hi> so much are we beholden to one that calls himself a <hi>Church of England-Kings-Protestant;</hi> whom I imagine to be of Parson <hi>Thompson</hi>'s Principles.</p>
+            <pb facs="tcp:193672:2"/>
+            <p>Thank you, dear Friend, that at last you are come to acknowledge a PLOT; but I doubt, if the denying it would have done thee any Kindness, we should rather have had it a <hi>Sham Presbyterian Plot</hi> from thee, (as much as thou seemest to hate it) then a <hi>real Popish Plot,</hi> as Justice <hi>GODFREY,</hi> Justice <hi>PYE,</hi> Justice <hi>ARNOLD,</hi> have so sadly experienc'd it: But I would fain know who they are whom thou reckonest <hi>Common-Wealth Protestants;</hi> doubtless thou meanest our last <hi>Parliament,</hi> for they rais'd the Dust thou speakest of; they were Rigorous to bring the Plotters to Justice, and made Prefaces of Loyalty in all their Addresses; yet what Scribler a Moneth ago durst have taken the freedom to have branded them with such black Reflections as thou hast done.</p>
+            <p>I never heard that <hi>Presbyterians, Anabaptists, Independants, &amp;c.</hi> refused to take the <hi>Oaths of Allegiance and Supremacy;</hi> but rather that they were willing to buckle to any reasonable Command: And I have heard such whom thou labourest to stigmatize with the greatest Guilt, wish well to the King and Kingdom, and pray zealously, and (I believe) heartily for them both.</p>
+            <p>And lest thou shouldst say, this was written by a <hi>Quaker,</hi> an <hi>Anabaptist,</hi> an <hi>Indepen<g ref="char:EOLhyphen"/>dent,</hi> or a <hi>Presbyterian;</hi> let me tell thee, as I have a Soul to be saved, I am a <hi>Church of England-King's-Protestant;</hi> which thou pretendedst to be. I reckon my self a <hi>Protestant,</hi> and so do all that know me; and I am known by many Persons of no inconsiderable Quality.</p>
+            <p>I find its thy greatest Grief, to see that there is more Unity like to be amongst the <hi>Dissenting Protestants,</hi> than ever was heretofore; and I doubt thou art jealous, that if they hold together, such <hi>Church of England-King's-Protestants</hi> as thou art, when weighed in a true <hi>Protestants</hi> Scale, will be found too light in thy Profession, and <hi>Mene Tekel</hi> will be thy most proper Motto, for all such <hi>Papists in Masquerade.</hi>
+            </p>
+            <p>Thou sayest,
+<q rend="margQuotes">All the Industry imaginable is used to represent such Persons to be the fittest Representatives of the People, who have been in actual Arms against his Majesty and his Royal Father: Nay, as it is credibly reported, one was re<g ref="char:EOLhyphen"/>commended to a Neighbouring Burrough, who was not only of the Council of State, and had abjured <hi>Charles Stuart,</hi> but had said beyond Sea, at the time of the Murther of the late King, That rather than he should want an Executioner, he would come over and do the Office.</q>
+            </p>
+            <p>Some are so bold and impudent as to be spatter Mr. Sheriff <hi>BETHEL</hi> with this Calumny; and they do not stick to say, that he wrote so from beyond the Seas; and why? He is known to be an <hi>absolute Enemy to the bloody-minded Papists,</hi> a Man of a <hi>Sober Life,</hi> a Man of <hi>great parts,</hi> and very <hi>Zealous</hi> for the <hi>King</hi> and <hi>Kingdom's safety,</hi> and all such men must expect to have Thanks returned only by such Pens as thine. Find me out one man that is Vigorous and Active for our safety, and if he escapes this Fate, let me be choak't with <hi>Godfrey's Cravat.</hi> Sir <hi>William Waller</hi> he is extream<g ref="char:EOLhyphen"/>ly Industrious to preserve the <hi>Protestant Religion,</hi> and the <hi>Peace</hi> of the <hi>Kingdom,</hi> What's he in your Opinion? Without doubt a <hi>Heretick,</hi> a <hi>Schismatick,</hi> an <hi>Enemy to the KING,</hi> a <hi>Disturber of</hi> Israels <hi>Quiet,</hi> a <hi>Dissenter,</hi> or at best but a <hi>Common-Wealth's Protestant.</hi> We doubt not but our present <hi>Lord Mayor,</hi> being eminently Active and Serviceable for a general Good, shall in a little time have the same <hi>particular Thanks</hi> from such a <hi>Protestant Pen</hi> as yours is; but alas! such <hi>Eagles</hi> as these are, do not cast an Eye upon every <hi>Rook</hi> or <hi>Jack-Daw;</hi> they mind more lofty things, than such lying Pamphlets; whilst your Tribe is busie like Moths to eat up their Reputa<g ref="char:EOLhyphen"/>tion, they are only Solicitous to wrap themselves and us in PEACE here, and in GLORY hereafter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
